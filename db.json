@@ -1,0 +1,55 @@
+{
+  "accounts": [
+    {
+      "name": "Chow",
+      "email": "chow@test.com",
+      "balance": 8000000,
+      "password": "abc",
+      "transactions": [
+        {
+          "type": "deposit",
+          "amount": "8000000"
+        }
+      ]
+    },
+    {
+      "name": "Lee",
+      "email": "lee@test.com",
+      "balance": 998,
+      "password": "def",
+      "transactions": [
+        {
+          "type": "deposit",
+          "amount": "1000"
+        },
+        {
+          "type": "withdraw",
+          "amount": "2"
+        }
+      ]
+    },
+    {
+      "name": "Wong",
+      "email": "wong@test.com",
+      "balance": 0,
+      "password": "mno",
+      "transactions": []
+    },
+    {
+      "name": "Chow Wai Khay",
+      "email": "77chow@gmail.com",
+      "balance": 992000,
+      "password": "zzz",
+      "transactions": [
+        {
+          "type": "deposit",
+          "amount": "1000000"
+        },
+        {
+          "type": "withdraw",
+          "amount": "8000"
+        }
+      ]
+    }
+  ]
+}

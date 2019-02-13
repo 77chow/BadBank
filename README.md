@@ -1,2 +1,2 @@
-# BadBank
-BadBank is the Fire Hydrant Assignment from MIT
+# littledb
+Little DB Exercise
